@@ -5,8 +5,7 @@
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
-    "lint": "eslint .",
-    "test": "jest --passWithNoTests"
+    "lint": "eslint ."
   },
   "repository": {
     "url": "https://github.com/KuzminaYuliya/ahj_dnd1/issues",
