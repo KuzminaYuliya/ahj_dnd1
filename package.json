@@ -6,8 +6,7 @@
     "start": "webpack-dev-server --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint .",
-    "test": "jest --passWithNoTests",
-    "coverage": "jest --testPathPattern=./test/ --coverage"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "url": "https://github.com/KuzminaYuliya/ahj_dnd1/issues",
